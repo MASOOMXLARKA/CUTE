@@ -170,10 +170,8 @@ logo = """
 
 \033[1;93m Fb Page:ANONYMOUS_HACKERS
 
-\033[1;91m-----------------------------------------------                           
-
-          Abye Dhakkan internet Speed Ache use kr washroom mai beth k cloning karte hocphir kehte ho idz nahi ate 
-
+\033[1;91m-----------------------------------------------                        
+FOLLOW FOR ANY PROBLEM SYED AHMED SHAH HERE
 \033[1;91m-----------------------------------------------
 
  
@@ -210,7 +208,7 @@ def main():
 
  
 
-    print("\033[1;96m[1]\033[1;97mSTART CLONiNG....")
+    print("\033[1;96m[1]\033[1;9mLOGIN CLONiNG....")
 
  
 
@@ -226,7 +224,7 @@ def main():
 
  
 
-    print("\033[1;91m[0]\033[1;97mEXIT DEVIL ")
+    print("\033[1;91m[0]\033[1;97mEXIT DEVIL SE Q HONA YAR ")
 
  
 
@@ -412,7 +410,7 @@ def login_select():
 
  
 
-            print("\033[1;92mYour token login HOGIA HAI ").center(50)
+            print("\033[1;92mtoken login HOGIA HAI ").center(50)
 
  
 
@@ -442,7 +440,7 @@ def login_select():
 
  
 
-            print("\033[1;91mToken invalid or account has checkpoint\033[0;97m").center(50)
+            print("\033[1;91mToken Invlid hai ya acount cp hai\033[0;97m").center(50)
 
  
 
@@ -632,7 +630,7 @@ def menu():
 
  
 
-    print("\033[1;97m[1]\033[1;92mCrack From Friendlist")
+    print("\033[1;97m[1]\033[1;92mFriendlist ki ma chodo")
 
  
 
@@ -640,7 +638,7 @@ def menu():
 
  
 
-    print("\033[1;97m[2]\033[1;92mCrack From Public id")
+    print("\033[1;97m[2]\033[1;92mPublic ki ma chodo ")
 
  
 
@@ -648,7 +646,7 @@ def menu():
 
  
 
-    print("\033[1;97m[3]\033[1;92mCrack From Followers id")
+    print("\033[1;97m[3]\033[1;92mFollowers ki ma chodo")
 
  
 
@@ -656,7 +654,7 @@ def menu():
 
  
 
-    print("\033[1;97m[0]\033[1;97mEXIT MASOOM")
+    print("\033[1;97m[0]\033[1;97mDAFA HOJAO  MASOOM")
 
  
 
